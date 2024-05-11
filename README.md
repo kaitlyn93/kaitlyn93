@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaitlyn93
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web/Mobile Development
 - 🌱 I’m currently learning Webflow, GrapesJS, NodeJS, Flask, Django and Python
 - 💞️ I’m looking to collaborate on Flash or Django Project
 - 📫 How to reach me @kaitlyn93
